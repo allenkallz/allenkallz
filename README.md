@@ -3,7 +3,7 @@
 
 <p>Welcome to my page! </br> I'm Harpreet, Fullstack developer from <img src="https://github.com/HatScripts/circle-flags/blob/dd5910007aee57e20f1b4350d9ec7cef1bb6dfc9/flags/in.svg" width="13"  /> <b>Delhi, India</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13" /> <b>Gothenburg, Sweden</b>. </p>
 
-<h1 ></h1>
+<h1></h1>
 <h3>  🔧 Technology Stack</h3>
 
 <ul>

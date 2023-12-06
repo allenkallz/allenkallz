@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Harpreet, Fullstack developer from <img src="https://github.com/HatScripts/circle-flags/blob/dd5910007aee57e20f1b4350d9ec7cef1bb6dfc9/flags/in.svg" width="13"  /> <b>Delhi, India</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13" /> <b>Gothenburg, Sweden</b>. </p>
+<p>Welcome to my page! </br> I'm Harpreet <img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/laptop.png" height="25" width="25" />, Fullstack developer from <img src="https://github.com/HatScripts/circle-flags/blob/dd5910007aee57e20f1b4350d9ec7cef1bb6dfc9/flags/in.svg" width="13"  /> <b>Delhi, India</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13" /> <b>Gothenburg, Sweden</b>. </p>
 
 <h1></h1>
 <h3>  🔧 Technology Stack</h3>

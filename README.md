@@ -53,17 +53,17 @@
   <li> <h4>Framework & workflow</h4> </li>
     <p>
       <img alt="Airflow" src="https://img.shields.io/badge/-Airflow-326CE5?style=flat-square&logo=apache-airflow&logoColor=red&labelColor=F0F3E9" />
-      <img alt="Django" src="https://img.shields.io/badge/-Django-13aa52?style=flat-square&logo=django&logoColor=black&labelColor=F0F3E9" />
-      <img alt="Flask" src="https://img.shields.io/badge/-Flask-blue?style=flat-square&logo=flask&logoColor=black&labelColor=F0F3E9" />
+      <img alt="Django" src="https://img.shields.io/badge/-Django-13aa52?style=flat-square&logo=django&logoColor=F0F3E9&labelColor=black" />
+      <img alt="Flask" src="https://img.shields.io/badge/-Flask-blue?style=flat-square&logo=flask&logoColor=F0F3E9&labelColor=black" />
       <img alt="FastApi" src="https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi&logoColor=black&labelColor=F0F3E9" />
     </p>
   <li> <h4>Tools & Technology </h4> </li>
     <p>
       <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=black" />
       <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-black?style=flat-square&logo=github-actions&logoColor=blue&labelColor=F0F3E9" />
-      <img alt="github runner" src="https://img.shields.io/badge/-Github_Runner-black?style=flat-square&logo=github-actions&logoColor=blue&labelColor=F0F3E9" />
+      <img alt="github runner" src="https://img.shields.io/badge/-Github_Runner-blue?style=flat-square&logo=github-actions&logoColor=blue&labelColor=F0F3E9" />
       <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-D0F18E?style=flat-square&logo=pycharm&logoColor=white&labelColor=black" />
-      <img alt="VSCode" src="https://img.shields.io/badge/-Vscode-black?style=flat-square&logo=visualstudiocode&logoColor=675CEF&labelColor=F0F3E9" />
+      <img alt="VSCode" src="https://img.shields.io/badge/-Vscode-675CEF?style=flat-square&logo=visualstudiocode&logoColor=675CEF&labelColor=F0F3E9" />
     </p>
     
   <li> <h4>Hardware</h4> </li>

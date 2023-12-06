@@ -63,7 +63,7 @@
       <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-black?style=flat-square&logo=github-actions&logoColor=blue&labelColor=F0F3E9" />
       <img alt="github runner" src="https://img.shields.io/badge/-Github_Runner-blue?style=flat-square&logo=github-actions&logoColor=blue&labelColor=F0F3E9" />
       <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-D0F18E?style=flat-square&logo=pycharm&logoColor=white&labelColor=black" />
-      <img alt="VSCode" src="https://img.shields.io/badge/-Vscode-675CEF?style=flat-square&logo=visualstudiocode&logoColor=675CEF&labelColor=F0F3E9" />
+      <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=675CEF&labelColor=F0F3E9" />
     </p>
     
   <li> <h4>Hardware</h4> </li>

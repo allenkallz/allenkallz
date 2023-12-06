@@ -70,7 +70,8 @@
     
   <li> <h4>Hardware</h4> </li>
     <p>
-      <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=555" /> &nbsp;
+      <img alt="Raspberry" src="https://img.shields.io/badge/-Raspberry-F05032?style=flat-square&logo=Raspberry-pi&logoColor=red&labelColor=F0F3E9" /> &nbsp;
+      <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-1287B1?style=flat-square&logo=Arduino&logoColor=1287B1&labelColor=F0F3E9" /> &nbsp;
     </p>
     
 </ul> 

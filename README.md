@@ -3,8 +3,9 @@
 
 <p>Welcome to my page! </br> I'm Harpreet, Fullstack developer from <img src="https://github.com/HatScripts/circle-flags/blob/dd5910007aee57e20f1b4350d9ec7cef1bb6dfc9/flags/in.svg" width="13"  /> <b>Delhi, India</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13" /> <b>Gothenburg, Sweden</b>. </p>
 
-
+<h1 ></h1>
 <h3>  🔧 Technology Stack</h3>
+
 <ul>
   <li> <h4>Programming languages</h4> </li>
     <p>
@@ -15,10 +16,10 @@
     </p>
   <li> <h3>Database</h3> </li>
     <p>
-      <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&labelColor=555" />
+      <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&labelColor=555" /> 
       <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?style=flat-square&logo=PostgreSQL&logoColor=black&labelColor=FFFFFF" />
       <img alt="PostgreSQL" src="https://img.shields.io/badge/PostGIS-3670A0.svg?style=flat-square&logo=PostgreSQL&logoColor=white&labelColor=555" />
-      <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white&labelColor=555" />
+      <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=black&labelColor=FFFFFF" />
       <img alt="Dynamodb" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white&labelColor=555" />
       <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache%20cassandra&logoColor=white&labelColor=555" />
     </p>
@@ -51,6 +52,7 @@
     
 </ul> 
 
+<h1 ></h1>
 <h3>Where to find me</h3>
   <p>
     <a href="https://github.com/allenkallz" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white&labelColor=555" /></a>       <a href="https://www.linkedin.com/in/allenkallz/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555" /></a>

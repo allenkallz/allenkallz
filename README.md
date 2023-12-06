@@ -13,6 +13,7 @@
       <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=61dbfb&labelColor=555" /> &nbsp;
       <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=555" /> &nbsp;
       <img alt="Java script" src="https://shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=yellow&labelColor=F0F3E9" /> &nbsp;
+      <img alt="Bash script" src="https://shields.io/badge/-Bash_Script-230dbed?style=flat-square&logo=gnu-bash&logoColor=white&labelColor=black" /> &nbsp;
     </p>
   <li> <h4>Operating System</h4> </li>
     <p>
@@ -33,7 +34,7 @@
 
   <li> <h4>Cloud</h4> </li>
     <p>
-      <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white&labelColor=555" /> &nbsp;
+      <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud-1a73e8?style=flat-square&logo=google-cloud&logoColor=white&labelColor=555" /> &nbsp;
       <img alt="Amazon" src="https://img.shields.io/badge/-Amazon-232F3E?style=flat-square&logo=amazon-aws&logoColor=yellow&labelColor=555" /> &nbsp;
       <img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=flat-square&logo=microsoft-azure&labelColor=555" /> &nbsp;
       <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white&labelColor=555" /> &nbsp;
@@ -41,7 +42,7 @@
     <ol > 
       <h5>Services</h5> 
         <p>
-          <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white&labelColor=555" /> &nbsp;
+          <img alt="Storage Service" src="https://img.shields.io/badge/-Storage_Service-430098?style=flat-square&logo=&logoColor=white&labelColor=555" /> &nbsp;
         </p>
     </ol>
   <li> <h4>Orchestration</h4> </li>

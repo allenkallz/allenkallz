@@ -5,6 +5,8 @@
 
 <h1></h1>
 <h3>  🔧 Technology Stack</h3>
+These are some of the major technologies that I use or have worked on in the past:
+
 
 <ul>
   <li> <h4>Programming languages</h4> </li>
@@ -44,6 +46,7 @@
       <h5>Services</h5> 
         <p>
           <img alt="Storage Service" src="https://img.shields.io/badge/-Storage_Service-430098?style=flat-square&logo=&logoColor=white&labelColor=555" /> &nbsp;
+          <img alt="Storage Service" src="https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8" /> &nbsp;
         </p>
     </ol>
   <li> <h4>Orchestration</h4> </li>

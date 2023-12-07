@@ -20,6 +20,7 @@
       <img alt="Window" src="https://img.shields.io/badge/-Window-0078D6?style=flat-square&logo=windows&logoColor=white&labelColor=555"> &nbsp;
       <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=61dbfb&labelColor=555" /> &nbsp;
       <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white&labelColor=555" /> &nbsp;
+      <img alt="LinuxCNC" src="https://img.shields.io/badge/-LinuxCNC-FCC624?style=flat-square&logo=Linux&logoColor=white&labelColor=555" /> &nbsp;
       <img alt="Yocto" src="https://shields.io/badge/-Yocto-000000?style=flat-square&logo=Linux&logoColor=yellow&labelColor=F0F3E9" /> &nbsp;
     </p>
   <li> <h4>Database</h4> </li>

@@ -68,10 +68,12 @@
       <img alt="VIM" src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=019733&labelColor=F0F3E9" /> &nbsp;
     </p>
     
-  <li> <h4>Hardware</h4> </li>
+  <li> <h4>Hardware & SoC </h4> </li>
     <p>
       <img alt="Raspberry" src="https://img.shields.io/badge/-Raspberry-F05032?style=flat-square&logo=Raspberry-pi&logoColor=red&labelColor=F0F3E9" /> &nbsp;
       <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-1287B1?style=flat-square&logo=Arduino&logoColor=1287B1&labelColor=F0F3E9" /> &nbsp;
+      <img alt="Renesas R-Car M3" src="https://img.shields.io/badge/-Renesas_R_Car_M3-1287B1?style=flat-square&logo=" /> &nbsp;
+      <img alt="Renesas R-Car H3" src="https://img.shields.io/badge/-Renesas_R_Car_H3-1287B1?style=flat-square&logo=" /> &nbsp;
     </p>
     
 </ul> 

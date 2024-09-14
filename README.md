@@ -1,3 +1,5 @@
+![ViewCount](https://views.whatilearened.today/views/github/navassherif98/README.md.svg?cache=remove)
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 

@@ -1,6 +1,5 @@
 ![ViewCount](https://views.whatilearened.today/views/github/allenkallz/README.md.svg?cache=remove)
 
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F75FE&center=true&vCenter=true&lines=👋+Hello!+I'm+Harpreet;Welcome+to+my+GitHub+Profile!" alt="Typing Animation">
 </p>

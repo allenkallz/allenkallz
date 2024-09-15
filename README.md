@@ -89,8 +89,8 @@ These are some of the major technologies that I use or have worked on in the pas
 <h1 ></h1>
 <h2> GitHub Stats</h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=allenkallz&show_icons=true&count_private=true&hide_title=true" alt="GitHub Stats" /> &nbsp;
-  <img src=https://github-readme-streak-stats.herokuapp.com/?user=allenkallz/>
+  <img src="https://github-readme-stats.vercel.app/api?username=allenkallz&show_icons=true&count_private=true&hide_title=true" alt="GitHub Stats" width="500" height="200" /> &nbsp;
+  <img src=https://github-readme-streak-stats.herokuapp.com/?user=allenkallz alt="GitHub Stats" width="500" height="200" />
 
 </p>
 

@@ -90,8 +90,8 @@ These are some of the major technologies that I use or have worked on in the pas
 <h2> GitHub Stats</h2>
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allenkallz&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api?username=allenkallz&show_icons=true&count_private=true&hide_title=true" alt="GitHub Stats" width="500" height="300" /> &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allenkallz" alt="GitHub Stats" width="500" height="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=allenkallz&show_icons=true&count_private=true&hide_title=true" alt="GitHub Stats" width="400" height="300" /> &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allenkallz" alt="GitHub Stats" width="400" height="300" />
 
 </p>
 

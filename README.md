@@ -7,6 +7,17 @@
 
 <p> I'm Harpreet <img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/laptop.png" height="25" width="25" />, Fullstack developer from <img src="https://github.com/HatScripts/circle-flags/blob/dd5910007aee57e20f1b4350d9ec7cef1bb6dfc9/flags/in.svg" width="13"  /> <b>Delhi, India</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13" /> <b>Gothenburg, Sweden</b>. I'm an enthusiastic data engineer with a knack for designing and deploying scalable data solutions. I excel in addressing complex big data challenges and harnessing the latest technologies to derive actionable insights</p>
 
+<h2> GitHub Stats</h2>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allenkallz&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=allenkallz&show_icons=true&count_private=true&hide_title=true" alt="GitHub Stats" width="360"/> &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allenkallz" alt="GitHub Stats" width="330" />
+
+</p>
+
+<h1 ></h1>
+
+
 <h1></h1>
 <h3>  🔧 Technology Stack</h3>
 These are some of the major technologies that I use or have worked on in the past:
@@ -87,15 +98,7 @@ These are some of the major technologies that I use or have worked on in the pas
 </ul> 
 
 <h1 ></h1>
-<h2> GitHub Stats</h2>
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allenkallz&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api?username=allenkallz&show_icons=true&count_private=true&hide_title=true" alt="GitHub Stats" width="360"/> &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allenkallz" alt="GitHub Stats" width="330" />
 
-</p>
-
-<h1 ></h1>
 <h3>Where to find me</h3>
   <p>
     <a href="https://github.com/allenkallz" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white&labelColor=555" /></a> &nbsp;

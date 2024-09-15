@@ -1,7 +1,7 @@
 ![ViewCount](https://views.whatilearened.today/views/github/allenkallz/README.md.svg?cache=remove)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F75FE&center=true&vCenter=true&lines=👋+Hello!+I'm+Harpreet;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" width="600" height="200" >
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F75FE&center=true&vCenter=true&lines=👋+Hello!+I'm+Harpreet;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" width="600" >
 </p>
 
 <p> I'm Harpreet <img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/laptop.png" height="25" width="25" />, Fullstack developer from <img src="https://github.com/HatScripts/circle-flags/blob/dd5910007aee57e20f1b4350d9ec7cef1bb6dfc9/flags/in.svg" width="13"  /> <b>Delhi, India</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13" /> <b>Gothenburg, Sweden</b>. I'm an enthusiastic data engineer with a knack for designing and deploying scalable data solutions. I excel in addressing complex big data challenges and harnessing the latest technologies to derive actionable insights</p>

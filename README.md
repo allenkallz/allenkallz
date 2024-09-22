@@ -12,7 +12,7 @@
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allenkallz&theme=dracula" />
   <img src="https://github-readme-stats.vercel.app/api?username=allenkallz&show_icons=true&count_private=true" alt="GitHub Stats" width="360"/> &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allenkallz" alt="GitHub Stats" width="330" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allenkallz" alt="GitHub Stats" width="360" />
   <img src="https://stackoverflow-card.vercel.app/?userID=7825115&theme=dracula">
 </p>
 

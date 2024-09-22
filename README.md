@@ -16,7 +16,7 @@
 </p>
 
 ---
-<h3>  🔧 Technology Stack</h3>
+### 🔧 Technology Stack
 
 <ul>
   <li> <h4>Programming languages</h4> </li>
@@ -88,7 +88,7 @@
 
 ---
 
-<h3>Where to find me</h3>
+### Where to find me
   <p>
     <a href="https://github.com/allenkallz" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white&labelColor=555" /></a> &nbsp;
     <a href="https://www.linkedin.com/in/allenkallz/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555" /></a> &nbsp;

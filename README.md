@@ -56,13 +56,7 @@ These are some of the major technologies that I use or have worked on in the pas
       <img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=flat-square&logo=microsoft-azure&labelColor=555" /> &nbsp;
       <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white&labelColor=555" /> &nbsp;
     </p>
-    <ol > 
-      <h5>Services</h5> 
-        <p>
-          <img alt="Storage Service" src="https://img.shields.io/badge/-Storage_Service-430098?style=flat-square&logo=&logoColor=white&labelColor=555" /> &nbsp;
-          <img alt="Storage Service" src="https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8" /> &nbsp;
-        </p>
-    </ol>
+    
   <li> <h4>Orchestration</h4> </li>
     <p>
       <img alt="Docker" src="https://img.shields.io/badge/-Docker-230dbed?style=flat-square&logo=docker&logoColor=white&labelColor=555" /> &nbsp;

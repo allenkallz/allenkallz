@@ -16,11 +16,8 @@
   <img src="https://stackoverflow-card.vercel.app/?userID=7825115&theme=dracula">
 </p>
 
-
-<h1></h1>
+---
 <h3>  🔧 Technology Stack</h3>
-These are some of the major technologies that I use or have worked on in the past:
-
 
 <ul>
   <li> <h4>Programming languages</h4> </li>

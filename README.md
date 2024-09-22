@@ -7,7 +7,7 @@
 <p> I'm Fullstack developer from <img src="https://github.com/HatScripts/circle-flags/blob/dd5910007aee57e20f1b4350d9ec7cef1bb6dfc9/flags/in.svg" width="13"  /> <b>Delhi, India</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13" /> <b>Gothenburg, Sweden</b>. I'm an enthusiastic data engineer with a knack for designing and deploying scalable data solutions. I excel in addressing complex big data challenges and harnessing the latest technologies to derive actionable insights</p>
 
 ---
-<h2> <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' />  GitHub Stats</h2>
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' />  GitHub Stats
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allenkallz&theme=dracula" />
   <img src="https://github-readme-stats.vercel.app/api?username=allenkallz&show_icons=true&count_private=true" alt="GitHub Stats" width="360"/> &nbsp;

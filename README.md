@@ -17,7 +17,8 @@
 
 ---
 ### 🔧 Technology Stack
-
+&nbsp
+&nbsp
 | **Category**             | **Tools / Technologies**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Programming Languages** | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white&labelColor=555)&nbsp;&nbsp;&nbsp;![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=61dbfb&labelColor=555)&nbsp;&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=555)&nbsp;&nbsp;&nbsp;![JavaScript](https://shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=yellow&labelColor=F0F3E9)&nbsp;&nbsp;&nbsp;![Bash](https://shields.io/badge/-Bash_Script-230dbed?style=flat-square&logo=gnu-bash&logoColor=white&labelColor=black) |
@@ -30,7 +31,7 @@
 | **Hardware & SoC**         | ![Raspberry Pi](https://img.shields.io/badge/-Raspberry-F05032?style=flat-square&logo=Raspberry-pi&logoColor=red&labelColor=F0F3E9)&nbsp;&nbsp;&nbsp;![Arduino](https://img.shields.io/badge/-Arduino-1287B1?style=flat-square&logo=Arduino&logoColor=1287B1&labelColor=F0F3E9)&nbsp;&nbsp;&nbsp;![Renesas R-Car M3](https://img.shields.io/badge/-Renesas_R_Car_M3-1287B1?style=flat-square&logo=)&nbsp;&nbsp;&nbsp;![Renesas R-Car H3](https://img.shields.io/badge/-Renesas_R_Car_H3-1287B1?style=flat-square&logo=) |
 
 ---
-
+&nbsp
 ### Where to find me
   <p>
     <a href="https://github.com/allenkallz" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white&labelColor=555" /></a> &nbsp;

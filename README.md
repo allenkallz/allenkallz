@@ -30,6 +30,9 @@
 | **Hardware & SoC**         | <img src="https://img.shields.io/badge/-Raspberry-F05032?style=popout&logo=Raspberry-pi&logoColor=red&labelColor=F0F3E9"  height="25" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Arduino-1287B1?style=popout&logo=Arduino&logoColor=1287B1&labelColor=F0F3E9"  height="25" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Renesas_R_Car_M3-1287B1?style=popout&logo="  height="25" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Renesas_R_Car_H3-1287B1?style=popout&logo=" height="25" /> |
 
 ---
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+---
 &nbsp;
 ### Where to find me
   <p>

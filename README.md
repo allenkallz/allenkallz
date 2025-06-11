@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=allenkallz&show_icons=true&count_private=true" alt="GitHub Stats" width="360"/> &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=allenkallz" alt="GitHub Stats" width="360" />
   <img src="https://stackoverflow-card.vercel.app/?userID=7825115&theme=dracula" width="360" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenkallz&layout=compact&theme=dracula" height="160" width="360" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allenkallz&layout=compact&theme=dracula" height="165" width="360" />
 </p>
 
 ---

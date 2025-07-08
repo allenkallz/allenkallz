@@ -4,7 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F75FE&center=true&vCenter=true&lines=👋+Hello!+I'm+Harpreet;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" width="600" >
 </p>
 
-<p> I'm Fullstack developer from <img src="https://github.com/HatScripts/circle-flags/blob/dd5910007aee57e20f1b4350d9ec7cef1bb6dfc9/flags/in.svg" width="13"  /> <b>Delhi, India</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13" /> <b>Gothenburg, Sweden</b>. I'm an enthusiastic data engineer with a knack for designing and deploying scalable data solutions. I excel in addressing complex big data challenges and harnessing the latest technologies to derive actionable insights</p>
+<p> Based in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13" /> <b>Gothenburg, Sweden</b>, I'm a Full-stack developer and Data Platform Engineer, originally from <img src="https://github.com/HatScripts/circle-flags/blob/dd5910007aee57e20f1b4350d9ec7cef1bb6dfc9/flags/in.svg" width="13"  /> <b>Delhi, India</b>. I specialize in building and maintaining robust infrastructure that powers complex data platforms. My technical proficiencies include Kubernetes, AWS, Terraform, Linux (Yocto), and Python, applied across diverse domains from embedded IoT to full-stack web development
+</p>
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' />  GitHub Stats
